@@ -1,3 +1,4 @@
+// Soloved 
 function MaximumProfite(arr){
     let profit = 0;
     let min = arr[0];
